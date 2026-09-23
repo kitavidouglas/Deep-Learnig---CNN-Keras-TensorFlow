@@ -1,10 +1,10 @@
 # Deep Learning & Machine Learning Resources
-This is a comprehensive list of machine learning and deep learning resources. Resources cover the theory and implementation of LLM and image diffusion models. If you'd like to contribute a resource then please open a new [issue](https://github.com/dgwyer/ml-resources/issues/new) or submit a [PR](https://github.com/dgwyer/ml-resources/pulls).
+This is a comprehensive list of machine learning and deep learning resources. Resources cover the theory and implementation of LLM and image diffusion models. If you'd like to contribute a resource then please open a new [issue](https://github.com/kitavidouglas/ml-resources/issues/new) or submit a [PR](https://github.com/kitavidouglas/ml-resources/pulls).
 
 ## Work In Progress
 This is a very new list of ML resources so the structure may change around while we figure out the best way to organize the resources. By all means [let me know](https://github.com/dgwyer/ml-resources/issues/new) what you think and how it can be improved!
 
-As you may have noticed most (or almost all!) resources focus on diffusion models. This is because where most of my focus has been these last few months. But I do want to transition to cover LLMs too. So if you have some good language based resources you'd like to share please [let me know](https://github.com/dgwyer/ml-resources/issues/new).
+As you may have noticed most (or almost all!) resources focus on diffusion models. This is because where most of my focus has been these last few months. But I do want to transition to cover LLMs too. So if you have some good language based resources you'd like to share please [let me know](https://github.com/kitavidouglas/ml-resources/issues/new).
 
 ## Table of Contents
 
