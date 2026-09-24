@@ -33,6 +33,7 @@ As you may have noticed most (or almost all!) resources focus on diffusion model
   - [Software and Tools](#software-and-tools)
   - [Cloud Services](#cloud-services)
   - [Datasets](#datasets)
+  - [Pytorch Resources](#pytorch-resources)
   - [Twitter](#twitter)
   - [Interviews](#interviews)
   - [Jupyter Notebooks](#jupyter-notebooks)
